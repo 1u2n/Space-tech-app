@@ -1,0 +1,14 @@
+body{
+	text-align: center;
+}
+
+h1{
+	color: darkblue;
+	font-family: sans-serif;
+	text-decoration-color: brown;
+}
+
+h2{
+	font-family: fantasy;
+	text-underline-position: below;
+}
